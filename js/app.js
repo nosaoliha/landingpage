@@ -15,9 +15,9 @@
 	function isInViewport (elem) {
 		let distance = elem.getBoundingClientRect();
 			return (
-			  distance.top >= -900 &&
-			  distance.left >= -300 &&
-			  distance.bottom <= (1.6 * window.innerHeight || document.documentElement.clientHeight) &&
+			  distance.top >= -300 &&
+			  distance.left >= 0 &&
+			  distance.bottom <= (1.3 * window.innerHeight || document.documentElement.clientHeight) &&
 			  distance.right <= (window.innerWidth || document.documentElement.clientWidth)
 	);
 };	

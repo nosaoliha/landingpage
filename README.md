@@ -1,6 +1,12 @@
 # The Landing Page Project
 
-This project aims to give real-world scenarios of **manipulating the DOM**. Refactor and test as much as possible while you are building. You should figure for every piece of functionality you add, you will likely spend just as much time testing and refactoring your code.
+This project will show you how to **manipulate the DOM** in real-world situations. The feature is used to accomplish two goals:
+1. Appending dynamically added data to the DOM.
+2. Demonstrating how javascript may improve the usability of a static site.
+
+Use the.zip file supplied or visit my Github Repository to open and view the project.
+
+Github hosts the project as well.
 
 ## What You Will Build?
 

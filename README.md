@@ -50,7 +50,7 @@ Last part is to add the functionality to scroll to sections. This can be achieve
 - Active state change for sections and nav links as user scrolls the viewport.
 - Smooth scrolling using `scrollIntoView` when a nav link is clicked.
 
-## Running the App
+## Running the Page
 Open the project through the `.zip` file provided and extract the files.
 >Open *index.html* in the browser of your choice.
 

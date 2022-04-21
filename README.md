@@ -27,5 +27,19 @@ No installation is required for this project
 ## Instructions
 The starter code has an **HTML** and **CSS** files to display a static version of the Landing Page project. You will need to convert this project from a static project to an interactive one. This will require modifying the **HTML** and **CSS** files, but primarily the **JS** file.
 
-To get started, open `js/app.js` and start building out the app's functionality
+To get started, open `js/app.js` and start building out the app's functionality.
+
+## Development
+First of all, build the navbar dynamically based on the sections of the page. This can be achieved by using the below mentioned methods of javascript
+
+`document.getElementById`
+`document.createElement`
+`.setAttribute`
+`.appendChild`
+
+Next step would be to add functionality to distinguish the section in view. This can be achieved by using the `.getBoundingClientRect()` method of javascript. Active states have to be added to the sections as well as the corresponding nav-links.
+
+Last part is to add the functionality to scroll to sections. This can be achieved by using the below mentioned methods of javascript
+
+`scroll(), scrollBy(), and scrollIntoView()`
 

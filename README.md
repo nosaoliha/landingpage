@@ -47,14 +47,12 @@ Last part is to add the functionality to scroll to sections. This can be achieve
 3. `scrollIntoView()`
 
 ## Features
-- Active state change for sections and nav links as user scrolls the viewport
-- Smooth scrolling using `scrollIntoView` when a nav link is clicked
+- Active state change for sections and nav links as user scrolls the viewport.
+- Smooth scrolling using `scrollIntoView` when a nav link is clicked.
 
 ## Running the App
 Open the project through the `.zip` file provided and extract the files.
-
 >Open *index.html* in the browser of your choice.
 
 ## References
-- To check if an element is in Viewport or not from vanillajstoolkit
-- To handle the scrolling part, I have used scrollIntoView()
+To handle the scrolling part, I have used `scrollIntoView()`

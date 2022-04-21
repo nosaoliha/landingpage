@@ -50,7 +50,7 @@ Smooth scrolling using `scrollIntoView` when a nav link is clicked
 ## Running the App
 Open the project through the `.zip` file provided and extract the files.
 
-Open *index.html* in the browser of your choice.
+>Open *index.html* in the browser of your choice.
 
 ## References
 To check if an element is in Viewport or not from vanillajstoolkit

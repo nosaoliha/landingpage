@@ -4,7 +4,8 @@
 */
 //this function identifies the global varables.
 	let navbar = document.getElementById("navbar__list");
-	let docFragment = document.createDocumentFragment();	
+	let docFragment = document.createDocumentFragment();
+	let sections = [...document.getElementsByTagName("section")];
 /**
  * End Global Variables
  * Start Helper Functions
@@ -23,9 +24,7 @@
 };	
 	
 //this function converts the HTMLCollection Object to an Array using the spread operator.
-	let sections = [...document.getElementsByTagName("section")];
 	let navbarListNames = getNavbarListItems(sections);
-
 	function getNavbarListItems(sections) {
 		return sections.map(section => {
 		return section.getAttribute("data-nav");

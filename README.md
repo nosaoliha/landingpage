@@ -30,22 +30,22 @@ The starter code has an **HTML** and **CSS** files to display a static version o
 To get started, open `js/app.js` and start building out the app's functionality.
 
 ## Development
-First of all, build the navbar dynamically based on the sections of the page. This can be achieved by using the below mentioned methods of javascript
+- First of all, build the navbar dynamically based on the sections of the page. This can be achieved by using the below mentioned methods of javascript
 
-`document.getElementById`
-`document.createElement`
-`.setAttribute`
-`.appendChild`
+1. `document.getElementById`
+2. `document.createElement`
+3. `.setAttribute`
+4. `.appendChild`
 
-Next step would be to add functionality to distinguish the section in view. This can be achieved by using the `.getBoundingClientRect()` method of javascript. Active states have to be added to the sections as well as the corresponding nav-links.
+- Next step would be to add functionality to distinguish the section in view. This can be achieved by using the `.getBoundingClientRect()` method of javascript. Active states have to be added to the sections as well as the corresponding nav-links.
 
-Last part is to add the functionality to scroll to sections. This can be achieved by using the below mentioned methods of javascript
+- Last part is to add the functionality to scroll to sections. This can be achieved by using the below mentioned methods of javascript
 
 `scroll(), scrollBy(), and scrollIntoView()`
 
 ## Features
-Active state change for sections and nav links as user scrolls the viewport
-Smooth scrolling using `scrollIntoView` when a nav link is clicked
+- Active state change for sections and nav links as user scrolls the viewport
+- Smooth scrolling using `scrollIntoView` when a nav link is clicked
 
 ## Running the App
 Open the project through the `.zip` file provided and extract the files.
@@ -53,5 +53,5 @@ Open the project through the `.zip` file provided and extract the files.
 >Open *index.html* in the browser of your choice.
 
 ## References
-To check if an element is in Viewport or not from vanillajstoolkit
-To handle the scrolling part, I have used scrollIntoView()
+- To check if an element is in Viewport or not from vanillajstoolkit
+- To handle the scrolling part, I have used scrollIntoView()

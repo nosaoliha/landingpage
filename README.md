@@ -43,3 +43,10 @@ Last part is to add the functionality to scroll to sections. This can be achieve
 
 `scroll(), scrollBy(), and scrollIntoView()`
 
+## Features
+Active state change for sections and nav links as user scrolls the viewport
+Smooth scrolling using `scrollIntoView` when a nav link is clicked
+
+## Running the App
+Open the project through the `.zip` file provided and extract the files.
+Open *index.html* in the browser of your choice.

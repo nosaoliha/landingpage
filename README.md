@@ -55,4 +55,4 @@ Open the project through the `.zip` file provided and extract the files.
 >Open *index.html* in the browser of your choice.
 
 ## References
-To handle the scrolling part, I have used `scrollIntoView()`
+To handle the scrolling part use `scrollIntoView()`

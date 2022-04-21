@@ -1,4 +1,4 @@
-# The Landing Page Project
+# Landing Page Project
 
 This project will show you how to **manipulate the DOM** in real-world situations. The feature is used to accomplish two goals:
 1. Appending dynamically added data to the DOM.

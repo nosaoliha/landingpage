@@ -4,7 +4,7 @@ This project will show you how to **manipulate the DOM** in real-world situation
 1. Appending dynamically added data to the DOM.
 2. Demonstrating how javascript may improve the usability of a static site.
 
-Use the `.zip` file supplied or visit my [Github Repository] (https://github.com/nosaoliha/landingpage.git) to open and view the project.
+Use the `.zip` file supplied or visit my [Github Repository](https://github.com/nosaoliha/landingpage.git) to open and view the project.
 
 Github hosts the project as well.
 

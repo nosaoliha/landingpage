@@ -31,16 +31,16 @@ A multi-section landing page.
 - To get started, open `js/app.js` and start building out the app's functionality.
 
 ## Development
-- First of all, build the navbar dynamically based on the sections of the page. This can be achieved by using the below mentioned methods of javascript
+First of all, build the navbar dynamically based on the sections of the page. This can be achieved by using the below mentioned methods of javascript
 
 1. `document.getElementById`
 2. `document.createElement`
 3. `.setAttribute`
 4. `.appendChild`
 
-- Next step would be to add functionality to distinguish the section in view. This can be achieved by using the `.getBoundingClientRect()` method of javascript. Active states have to be added to the sections as well as the corresponding nav-links.
+Next step would be to add functionality to distinguish the section in view. This can be achieved by using the `.getBoundingClientRect()` method of javascript. Active states have to be added to the sections as well as the corresponding nav-links.
 
-- Last part is to add the functionality to scroll to sections. This can be achieved by using the below mentioned methods of javascript
+Last part is to add the functionality to scroll to sections. This can be achieved by using the below mentioned methods of javascript
 
 1. `scroll()`
 2. `scrollBy()`
